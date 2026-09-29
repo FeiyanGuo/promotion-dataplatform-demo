@@ -1,5 +1,7 @@
 # 发布演示版到 GitHub Pages
 
+> ✅ **已上线**：https://feiyanguo.github.io/promotion-dataplatform-demo/ （本仓库 push 到 main 即自动重新发布）
+
 > 目标：让任何点链接的人都能零安装试用 demo，链接形如 `https://<你的用户名>.github.io/<仓库名>/`
 > 演示版特点：**纯前端、无服务器**，所有数据只存在访问者浏览器内存里，刷新即还原，不上传任何数据。
 
