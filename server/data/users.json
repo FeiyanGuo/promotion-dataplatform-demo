@@ -1,0 +1,54 @@
+[
+ {
+  "username": "admin",
+  "name": "小F（总部OD）",
+  "role": "admin",
+  "password": "admin123",
+  "departments": [
+   "产品部",
+   "人事部",
+   "市场部",
+   "技术部",
+   "法务部",
+   "财务部",
+   "运营部",
+   "销售部"
+  ],
+  "centers": []
+ },
+ {
+  "username": "bp_wang",
+  "name": "王慧（HRBP）",
+  "role": "bp",
+  "password": "bp123",
+  "departments": [],
+  "centers": [
+   "技术中心"
+  ]
+ },
+ {
+  "username": "bp_chen",
+  "name": "陈强（HRBP）",
+  "role": "bp",
+  "password": "bp123",
+  "departments": [
+   "产品部",
+   "技术部"
+  ],
+  "centers": [
+   "业务中心"
+  ]
+ },
+ {
+  "username": "bp_liu",
+  "name": "刘洋（HRBP）",
+  "role": "bp",
+  "password": "bp123",
+  "departments": [
+   "市场部"
+  ],
+  "centers": [
+   "职能中心"
+  ]
+ }
+]
